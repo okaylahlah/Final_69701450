@@ -1,0 +1,16 @@
+ข้อความใช้ประกอบการออกแบบเว็บไซต์
+"Go2upSkills Thailand's no.1 online course platform. We provide a platform for experts of any profession to create courses that can be offered to the public. With Go2upSkills, anybody in can teach and learn online anytime, anywhere."
+      
+Our Courses
+Course 1
+Learn the basics of web development.
+
+Course 2
+Advance your knowledge in Python programming.
+
+Course 3
+Master data analysis with Power BI.
+
+
+
+© 2024 OnlineCourses. All rights reserved. by 69701450 อานนท์ มีศรี
